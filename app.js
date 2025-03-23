@@ -2,7 +2,7 @@
 alert('Seja bem vindo ao contador digital');
 let contador = 1;
 
-while (contador < 11) {
+while (contador < 10) {
     console.log('executando a contagem' + contador);
     alert(contador);
     contador++;
