@@ -1,8 +1,8 @@
 //Criar um contador que va do 1 ao 10, e mostre cada numero
-alert('Seja bem vindo ao contador digital');
+alert('Seja bem vindo ao contador, vamos contar até 10');
 let contador = 1;
 
-while (contador < 10) {
+while (contador < 11) {
     console.log('executando a contagem' + contador);
     alert(contador);
     contador++;
